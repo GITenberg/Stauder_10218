@@ -1,0 +1,26 @@
+_repo: Stauder_10218
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brandt, G. N. (Gudmund Nyeland)
+    alias: Brandt, Gudmund Nyeland
+    birthdate: 1878
+    deathdate: 1945
+    gutenberg_agent_id: '3387'
+    url: http://www.gutenberg.org/2009/agents/3387
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10218'
+language: da
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SB'
+- !lcsh 'Perennials'
+- !lcc 'QK'
+- GITenberg
+title: Stauder
+url: http://www.gutenberg.org/ebooks/10218
